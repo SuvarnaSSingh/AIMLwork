@@ -12,6 +12,7 @@ Project 7: Bank Customer Churn Prediction using Artificial Neural Networks	3
 Project 8: Plant Seedling Classification using CNN.	3
 Project 9: Twitter Sentiment Analysis using Natural Language Processing	3
 
+
 ** How to Use:**
 A separate folder is created for each project which contains data set and Notebook. In each notebook you will find how I tried to solve the given problem and what were my findings and business recommendations.
 
