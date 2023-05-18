@@ -1,5 +1,5 @@
 ## AI ML work
-This repository contains various projects I developed using AI ML  techniques
+This repository contains various projects I have developed using AI ML  techniques.
 
 ## **Table Of Contents**
 * Project 1: Customer Profiling Using Exploratory Data Analysis	1
